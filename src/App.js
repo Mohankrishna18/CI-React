@@ -1,13 +1,5 @@
-
-
 function App() {
-  return (
-    <div>
-     
-          FUCKING TASK
-      
-    </div>
-  );
+  return <div>FUCKING TASK</div>
 }
 
-export default App;
+export default App

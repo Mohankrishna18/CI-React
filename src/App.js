@@ -4,7 +4,7 @@ import React from 'react';
 
 function App() {
   return (
-    <div  >
+    <div style={{paddingLeft:'550px'}}>
       <h2>fucking task done by fucker</h2>
      
       <TodoList />
